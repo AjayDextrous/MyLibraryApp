@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyLibraryPlus</string>
+    <string name="app_ver">v2.5</string>
+    <string name="login_admin">Login as Admin</string>
+    <string name="login_user">Login as User</string>
+    <string name="title_activity_admin_screen">AdminScreenActivity</string>
+    <string name="book_name">Title</string>
+    <string name="book_auth">Author</string>
+    <string name="book_pub">Publisher</string>
+    <string name="book_nos">Number of Copies</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_borrow">Borrow</string>
+    <string name="book_id">Book ID</string>
+    <string name="select_user">Select User</string>
+    <string name="action_addbook">Add Book...</string>
+    <string name="action_showbooks">My Books</string>
+    <string name="action_deletebook">Remove Book</string>
+    <string name="action_addnewbook">Add New Copies</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="submit">Submit</string>
+    <string name="totalis">Total Books :</string>
+    <string name="action_select_books">Select Books</string>
+</resources>
